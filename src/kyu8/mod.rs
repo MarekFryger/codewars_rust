@@ -1,0 +1,10 @@
+mod kata1;
+mod kata2;
+mod kata3;
+mod kata4;
+mod kata5;
+mod kata6;
+mod kata7;
+mod kata8;
+mod kata9;
+mod kata10;
