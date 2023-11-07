@@ -8,3 +8,8 @@ mod kata7;
 mod kata8;
 mod kata9;
 mod kata10;
+mod kata11;
+mod kata12;
+mod kata13;
+mod kata14;
+mod kata15;
