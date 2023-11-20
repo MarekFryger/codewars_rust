@@ -61,3 +61,8 @@ mod kata60;
 mod kata61;
 mod kata62;
 mod kata63;
+mod kata64;
+mod kata65;
+mod kata66;
+mod kata67;
+mod kata68;
